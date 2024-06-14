@@ -1,0 +1,13 @@
+  {
+    "name": "tailwind-yzc-cdn",
+    "version": "3.4.4",
+    "description": "Leverage CDN network jsdelivr/unpkg to provide fast access for TailwindCSS static files.",
+    "main": "tailwind.js",
+    "author": "Yan ZC",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/yanzc4/tailwind-cdn.git"
+    }
+  }
+  
